@@ -1,0 +1,10 @@
+{
+  "name": "GradeChecker",
+  "version": "0.0.1",
+  "description": "Sends an SMS message if a new grade has been posted to Angel.",
+  "author": "Christopher Cope <Shadow6363@gmail.com>",
+  "dependencies": {
+    "twilio": "^2.2.0",
+    "xml2js": "^0.4.8"
+  }
+}
